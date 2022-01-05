@@ -1,4 +1,4 @@
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/google-cloud-sqlcommenter)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/google-cloud-sqlcommenter )
 ![PyPI](https://img.shields.io/pypi/v/google-cloud-sqlcommenter)
 ![PyPI - Django Version](https://img.shields.io/pypi/djversions/google-cloud-sqlcommenter)
 

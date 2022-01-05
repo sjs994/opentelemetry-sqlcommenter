@@ -4,7 +4,7 @@
 
 # sqlcommenter
 
-Python modules for  popular projects that add meta info to your SQL queries as comments.
+Python modules for popular projects that add meta info to your SQL queries as comments.
 
  * [Django](#django)
  * [SQLAlchemy](#sqlalchemy)
